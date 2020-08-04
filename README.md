@@ -9,7 +9,7 @@ print_r($resultado);
 ```
 
 Resultado
-``Array
+```Array
 (
     [1] => blue
 )
